@@ -1,8 +1,10 @@
 <resources>
     <string name="app_name">Rutinas exitosas</string>
-    <string name="txt1">Usuario</string>
-    <string name="txt2">Contraseña</string>
-    <string name="btn1">Ingresar</string>
-    <string name="btn2">Registrarse</string>
+    <string name="Usuario">Usuario</string>
+    <string name="Password">Password</string>
+    <string name="Login">Iniciar Sesión</string>
+    <string name="Pregunta">¿No estas registrado?</string>
+    <string name="Registro">Crear una cuenta</string>
+
 
 </resources>
